@@ -1,6 +1,6 @@
-## Privacy Policy
+**Privacy Policy**
 
-Yuji Iguchi built the Gravitist app as an Ad Supported app. This SERVICE is provided by Yuji Iguchi at no cost and is intended for use as is.
+Yuji Iguchi built the Gravitist app as a Free app. This SERVICE is provided by Yuji Iguchi at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -16,7 +16,6 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 
 **Log Data**
@@ -54,7 +53,9 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 **Changes to This Privacy Policy**
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+
+This policy is effective as of 2020-04-13
 
 **Contact Us**
 
